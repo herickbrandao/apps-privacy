@@ -1,3 +1,3 @@
 # Kibooe Privacy
 
-[Notes Control](#)
+[Notes Control](./NotesControl.md)
