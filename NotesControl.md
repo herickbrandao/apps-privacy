@@ -7,7 +7,7 @@ Our Notes app is designed to function offline, ensuring that no data related to 
 The app uses advertisements to remain free, and the ads displayed are managed by Google AdMob, an ad platform by Google. This means that Google may collect certain user data to personalize and display relevant ads, in accordance with their own privacy policy.
 
 Information Collected for Advertising
-While the Notes app does not collect personal data or any information related to your notes, Google AdMob may collect the following types of information:
+While the Notes app does not collect personal data or any information related to your notes, Google AdMob may collect different types of information.
 
 ## Device identifiers
 Information about interactions with ads
